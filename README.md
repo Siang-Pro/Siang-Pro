@@ -1,5 +1,5 @@
 <!-- 頂部打字動畫 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=嗨👋+我是小吳;這是我的個人品牌Siang-Pro;接案工程師+%7C+全端開發;專注於+PHP%2C+SPA平台%2C+FiveM開發;打造專屬你的專案與平台)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=嗨👋+我是小吳;這是我的個人品牌Siang-Pro;我是全職接案工程師+%7C+擅長全端開發;專注於+PHP%2C+HTML%2C+CSS等等..;這裡有時候會丟一些開源項目分享)](https://git.io/typing-svg)
 
 ---
 
@@ -39,23 +39,9 @@
 
 ---
 
-## 🔥 貢獻連續天數
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siang-Pro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 👀 訪客計數
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Siang-Pro&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
-
----
-
-## 🌌 背景動態特效
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/animated-wave.svg" width="100%" alt="Animated Wave" />
 </p>
 
 ---
