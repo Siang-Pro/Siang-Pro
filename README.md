@@ -1,5 +1,5 @@
 <!-- 頂部打字動畫 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=嗨👋+我是小吳+Siang-Pro;接案工程師+%7C+全端開發;專注於+PHP%2C+SPA平台%2C+FiveM開發;打造專屬你的專案與平台)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=嗨👋+我是小吳;這是我的個人品牌Siang-Pro;接案工程師+%7C+全端開發;專注於+PHP%2C+SPA平台%2C+FiveM開發;打造專屬你的專案與平台)](https://git.io/typing-svg)
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## 🔥 貢獻連續天數
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Siang-Pro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siang-Pro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -53,9 +53,9 @@
 
 ---
 
-## 🌌 背景星空動畫
+## 🌌 背景動態特效
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/animated-background.svg" width="100%" alt="Animated Background" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/animated-wave.svg" width="100%" alt="Animated Wave" />
 </p>
 
 ---
